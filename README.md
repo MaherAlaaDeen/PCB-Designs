@@ -5,4 +5,4 @@
 - [Project 4: Astable NE555](https://github.com/MaherAlaaDeen/PCB-Designs/blob/main/Project%204/README.md)
 - [Project 5: 2 Channel Relay Module](https://github.com/MaherAlaaDeen/PCB-Designs/blob/main/Project%205/READMED.md)
 - [Project 6: IR Sensor Module](https://github.com/MaherAlaaDeen/PCB-Designs/blob/main/Project%206/README.md)
-- [Project 7: High DC Voltage Sensor Module]()
+- [Project 7: High DC Voltage Sensor Module](https://github.com/MaherAlaaDeen/PCB-Designs/edit/main/Project%207/README.md)
