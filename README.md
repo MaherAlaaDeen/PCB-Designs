@@ -6,4 +6,4 @@
 - [Project 5: 2 Channel Relay Module](https://github.com/MaherAlaaDeen/PCB-Designs/blob/main/Project%205/READMED.md)
 - [Project 6: IR Sensor Module](https://github.com/MaherAlaaDeen/PCB-Designs/blob/main/Project%206/README.md)
 - [Project 7: High DC Voltage Sensor Module](https://github.com/MaherAlaaDeen/PCB-Designs/blob/main/Project%207/README.md)
-- [Project 8: +5V DC-DC Buck Converter Module]()
+- [Project 8: +5V DC-DC Buck Converter Module](https://github.com/MaherAlaaDeen/PCB-Designs/blob/main/Project%208/README.md)
